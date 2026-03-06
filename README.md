@@ -1,10 +1,8 @@
 # houseofgyi-tracker
-
-House of Gyi CENTCOM
-
 House of Gyi CENTCOM
 
 OSINT Tracker for Chameleon Carrier Transparency
+
 
 🕊️ In Memory of Aimee & Lucas Cardoso
 This project is dedicated to the memory of Aimee and Lucas. Our goal is to ensure that no trucking company can hide a history of negligence behind a new name or DOT number. Through data and transparency, we seek to protect families and hold high-risk operators accountable.
@@ -20,6 +18,8 @@ Just a few weeks before, I had been slowly recouping from the unnecessary emotio
 Thankfully, a few weeks later, my parents and my sister emotionally reconciled with me and Maw Gyi, profoundly apologizing for the misunderstandings and the pain they had caused.
 
 Then, August 26, 2023, arrived. In an instant, the renewed peace and mutual understanding our family had just found was completely shattered.
+
+
 
 
 🛡️ Project Overview
