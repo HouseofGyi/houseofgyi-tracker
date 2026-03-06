@@ -9,6 +9,19 @@ OSINT Tracker for Chameleon Carrier Transparency
 🕊️ In Memory of Aimee & Lucas Cardoso
 This project is dedicated to the memory of Aimee and Lucas. Our goal is to ensure that no trucking company can hide a history of negligence behind a new name or DOT number. Through data and transparency, we seek to protect families and hold high-risk operators accountable.
 
+  To Aimee and Lucas Cardoso,
+
+At exactly 10:45 in the morning on August 26, 2023, your bestie, Erika, received a call from Shasta delivering the most difficult news any human being should ever have to hear: “Aimee and Lucas are no longer with us.”
+
+I was standing on the opposite side of the kitchen island. My sister completely lost it.
+
+Just a few weeks before, I had been slowly recouping from the unnecessary emotional trauma, distress, and familial distrust that my parents and sister had caused. They had mistakenly perceived my new girlfriend of seven months, Maw Gyi, as an overseas romance scammer stealing hearts and money. I felt emotionally betrayed and extremely hurt by this misconceived notion. The strain was so heavy that Maw Gyi and I seriously contemplated walking away from each other's lives and breaking up for good.
+
+Thankfully, a few weeks later, my parents and my sister emotionally reconciled with me and Maw Gyi, profoundly apologizing for the misunderstandings and the pain they had caused.
+
+Then, August 26, 2023, arrived. In an instant, the renewed peace and mutual understanding our family had just found was completely shattered.
+
+
 🛡️ Project Overview
 House of Gyi is an Open Source Intelligence (OSINT) platform designed to identify "Chameleon Carriers"—transportation entities that frequently reincarnate to evade safety violations, inspections, and legal liabilities.
 
